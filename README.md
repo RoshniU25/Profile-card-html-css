@@ -1,4 +1,4 @@
-#profile card UI (HTML & CSS)
+## Profile card UI (HTML & CSS)
 
 This project is simple and responsive profile card built using HTML and CSS.
 The design was first created in Figma and then  implemented in code.
@@ -17,6 +17,6 @@ The design was first created in Figma and then  implemented in code.
 
 This project is part of my learning journey in frontend development.
 
-Preview
+## Preview
 https://roshniu25.github.io/Profile-card-html-css/
 
