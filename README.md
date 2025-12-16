@@ -17,6 +17,6 @@ The design was first created in Figma and then  implemented in code.
 
 This project is part of my learning journey in frontend development.
 
-##Preview
+Preview
 https://roshniu25.github.io/Profile-card-html-css/
-<img src="C:\Users\devan\Desktop\frontend and UI,UX projects\profile card\Profile-card-html-css\Profile.jpeg" >
+<img src="C:\Users\devan\Desktop\frontend and UI,UX projects\profile card\Profile-card-html-css\Profile.jpeg" alt="Image of profile card preview">
